@@ -1,0 +1,1 @@
+This Repo for Terraform training sessions
